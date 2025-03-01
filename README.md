@@ -7,16 +7,25 @@ Welcome to the Odin Recipes project! This project contains a collection of simpl
 index.html: The homepage of the project, which includes the main heading and links to each recipe page.
 
 The link structure for each recipe page is inside an unordered list for better organization.
+
 Recipe Pages: Inside the recipes/ directory, each HTML file represents a specific recipe.
 
 meatloaf.html: Contains a detailed recipe for Meatloaf.
+
 seafood-boil.html: Contains a detailed recipe for Seafood Boil.
+
 pot-roast.html: Contains a detailed recipe for Pot Roast.
+
 Each recipe page follows this structure:
 
 Link Back: A link at the top or bottom of each recipe page to return to the homepage.
+
 Heading: Name of the recipe.
+
 Image: An image of the finished dish.
+
 Description: A brief description of the dish.
+
 Ingredients: An unordered list of ingredients required for the recipe.
+
 Steps: An ordered list outlining the steps for preparing the dish.
