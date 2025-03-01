@@ -2,15 +2,6 @@
 
 Welcome to the Odin Recipes project! This project contains a collection of simple recipe pages, each with a detailed recipe, ingredients list, and step-by-step instructions. You can explore various recipes by navigating through the homepage or clicking on the links to each dish.
 
-## Project Structure
-odin-recipes/
-│
-├── index.html                # Homepage with links to all recipe pages
-└── recipes/
-    ├── meatloaf.html         # Recipe page for Meatloaf
-    ├── seafood_boil.html     # Recipe page for Seafood Boil
-    └── pot_roast.html        # Recipe page for Pot Roast
-
 ## Project Setup
 
 index.html: The homepage of the project, which includes the main heading and links to each recipe page.
